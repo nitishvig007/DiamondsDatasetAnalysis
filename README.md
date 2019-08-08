@@ -60,6 +60,12 @@ To analyze the price of the diamond dataset with respect to parameters such as c
 
 
 
+Conclusion
+
+With the onset of the project the parameter carat was considered the most essential phenomena in contributing to the price.This hypothesis proved to be correct due to the variation of the R sq value(decrease) in dataset that included and not included carat for its analysis.
+Furthermore we also stated that the cut, clarity plays a vital role in the pricing. This was proved wrong due to the constant value of R sq.
+Apart from this we concluded that the colour does not play a factor in the pricing thus proving our stated hypothesis correct.
+The last possibility that was considered was the non-contribution  of table towards the value. This hypothesis was proved wrong due to variation in the R sq value in its presence and absence. 
 
 
 
